@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Rishikesh Rajmane, Data Analyst, BFSI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1F33"/>
+      <stop offset="1" stop-color="#0F3D4A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+  <rect x="48" y="62" width="6" height="190" rx="3" fill="#2DD4BF"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="72" y="118" font-size="46" font-weight="700" fill="#FFFFFF">Rishikesh Rajmane</text>
+    <text x="72" y="166" font-size="24" font-weight="600" fill="#5EEAD4">Data Analyst · BFSI</text>
+    <text x="72" y="206" font-size="18" fill="#CBD5E1">SQL · Python · Power BI · Zoho Analytics</text>
+    <text x="72" y="240" font-size="15" fill="#94A3B8">Mumbai, India · Growing toward Data Engineering</text>
+  </g>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="700" y="60" width="220" height="100" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#2DD4BF" stroke-opacity="0.45"/>
+    <text x="722" y="105" font-size="34" font-weight="700" fill="#FFFFFF">1.5 yrs</text>
+    <text x="722" y="134" font-size="15" fill="#CBD5E1">BFSI analytics</text>
+
+    <rect x="940" y="60" width="220" height="100" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#2DD4BF" stroke-opacity="0.45"/>
+    <text x="962" y="105" font-size="34" font-weight="700" fill="#FFFFFF">1,500+</text>
+    <text x="962" y="134" font-size="15" fill="#CBD5E1">partners automated</text>
+
+    <rect x="700" y="180" width="220" height="100" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#2DD4BF" stroke-opacity="0.45"/>
+    <text x="722" y="225" font-size="34" font-weight="700" fill="#FFFFFF">~80%</text>
+    <text x="722" y="254" font-size="15" fill="#CBD5E1">less manual effort</text>
+
+    <rect x="940" y="180" width="220" height="100" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#2DD4BF" stroke-opacity="0.45"/>
+    <text x="962" y="225" font-size="34" font-weight="700" fill="#FFFFFF">Daily</text>
+    <text x="962" y="254" font-size="15" fill="#CBD5E1">KPIs auto-delivered</text>
+  </g>
+</svg>

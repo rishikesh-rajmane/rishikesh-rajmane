@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/rishikesh-rajmane-72b346254/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://rishikesh0715.github.io/rishikesh-rajmane.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="[https://rishikesh0715.github.io/rishikesh-rajmane.github.io](https://rishikesh-rajmane.github.io/Rishikesh-Rajmane-Portfolio/)"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=flat-square&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:rajmanerishikesh720@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-475569?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://expense-tracker-flask-02a1.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-Expense_Tracker-0F766E?style=flat-square"/></a>
 </p>

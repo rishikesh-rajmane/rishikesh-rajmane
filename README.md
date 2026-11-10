@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Rishikesh Rajmane, Data Analyst, BFSI" width="100%"/>
+<img src="banner.svg" alt="Rishikesh Rajmane, Data Analyst, BFSI" width="100%"/>
 
 <p>
   <a href="https://www.linkedin.com/in/rishikesh-rajmane-72b346254/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -17,7 +17,7 @@ I started as a Data Analytics Intern and moved to a full-time role within six mo
 
 ## How I Work
 
-<img src="assets/pipeline.svg" alt="Source data to SQL to Python to dashboards to delivery" width="100%"/>
+<img src="pipeline.svg" alt="Source data to SQL to Python to dashboards to delivery" width="100%"/>
 
 ## Selected Work
 
